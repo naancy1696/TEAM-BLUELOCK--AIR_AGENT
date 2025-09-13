@@ -1,0 +1,50 @@
+[
+  {
+    "flight_id":"fl_001",
+    "airline":"gojet",
+    "flight_number":"G9 102",
+    "origin_iata":"blr",
+    "destination_iata":"del",
+    "departure_iso":"2025-10-12T18:40:00+05:30",
+    "arrival_iso":"2025-10-12T20:20:00+05:30",
+    "duration_minutes":100,
+    "stops":0,
+    "fare_options":[
+      {"fare_family":"saver","total_fare":6245,"baggage_allowance":"15kg","changeable":false},
+      {"fare_family":"flexi","total_fare":9245,"baggage_allowance":"23kg","changeable":true}
+    ],
+    "seats_available":5
+  },
+  {
+    "flight_id":"fl_002",
+    "airline":"skyair",
+    "flight_number":"S9 201",
+    "origin_iata":"del",
+    "destination_iata":"bom",
+    "departure_iso":"2025-10-13T06:00:00+05:30",
+    "arrival_iso":"2025-10-13T08:10:00+05:30",
+    "duration_minutes":130,
+    "stops":1,
+    "fare_options":[
+      {"fare_family":"saver","total_fare":5320,"baggage_allowance":"15kg","changeable":false},
+      {"fare_family":"premium","total_fare":8320,"baggage_allowance":"30kg","changeable":true}
+    ],
+    "seats_available":3
+  },
+  {
+    "flight_id":"fl_003",
+    "airline":"airindia",
+    "flight_number":"AI 303",
+    "origin_iata":"hyd",
+    "destination_iata":"che",
+    "departure_iso":"2025-10-14T14:30:00+05:30",
+    "arrival_iso":"2025-10-14T16:00:00+05:30",
+    "duration_minutes":90,
+    "stops":0,
+    "fare_options":[
+      {"fare_family":"saver","total_fare":4120,"baggage_allowance":"15kg","changeable":false},
+      {"fare_family":"flexi","total_fare":7120,"baggage_allowance":"25kg","changeable":true}
+    ],
+    "seats_available":6
+  }
+]
