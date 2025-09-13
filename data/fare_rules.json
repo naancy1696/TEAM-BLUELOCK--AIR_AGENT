@@ -1,0 +1,20 @@
+{
+  "saver": {
+    "refundable": true,
+    "cancellation_slabs": [
+      {"slab":"more_than_72h","fee_per_passenger":500},
+      {"slab":"24_to_72h","fee_per_passenger":2000},
+      {"slab":"0_to_24h","fee_per_passenger":5000},
+      {"slab":"at_airport","fee_per_passenger":7000}
+    ]
+  },
+  "flexi": {
+    "refundable": true,
+    "cancellation_slabs":[
+      {"slab":"more_than_72h","fee_per_passenger":200},
+      {"slab":"24_to_72h","fee_per_passenger":1000},
+      {"slab":"0_to_24h","fee_per_passenger":3000},
+      {"slab":"at_airport","fee_per_passenger":5000}
+    ]
+  }
+}
