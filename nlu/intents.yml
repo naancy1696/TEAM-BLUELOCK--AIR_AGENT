@@ -1,0 +1,56 @@
+version: "1.0"
+
+intents:
+  - intent: book_flight
+    examples:
+      - "Book a flight from Bengaluru to Delhi on 12 Oct for 2 adults"
+      - "I need a one-way ticket BLR to DEL on 12/10 for two people"
+      - "Show me cheapest flights from BLR to DEL on October 12"
+      - "Reserve 2 tickets from BLR to DEL for Oct 12"
+      - "Get me a flight from Bengaluru to Delhi on 12th October"
+      - "I want to book one-way tickets BLR to DEL for two"
+      - "Can you book a flight BLR to DEL on 12/10 for 2 adults?"
+      - "Book a flight for 2 adults from Bengaluru to Delhi"
+      - "I need tickets from BLR to DEL on 12-10-2025"
+      - "Reserve a flight from BLR to DEL for October 12"
+      - "Book 2 economy seats from Bengaluru to Delhi"
+      - "I want to fly BLR to DEL on 12th Oct for two passengers"
+      - "Get me tickets from Bengaluru to Delhi on 12/10"
+      - "Book a one-way flight from BLR to DEL"
+      - "I need a flight from Bengaluru to Delhi on October 12 for 2"
+
+  - intent: check_status
+    examples:
+      - "Check PNR ZX1AB2 for Sharma"
+      - "My PNR is ZX1AB2, what's the status?"
+      - "Is flight G9 102 on time?"
+      - "What is the status of PNR ZX1AB2?"
+      - "Can you tell me if flight G9 102 is delayed?"
+      - "Check my booking status for ZX1AB2"
+      - "Is my flight BLR to DEL on time?"
+      - "Flight G9 102, status please"
+      - "Status of my PNR ZX1AB2"
+      - "Is PNR ZX1AB2 confirmed?"
+      - "Tell me if my flight G9 102 is on schedule"
+      - "Can I get the status of PNR ZX1AB2?"
+      - "Check if flight G9 102 is delayed"
+      - "Status of my booking ZX1AB2"
+      - "Is my flight on time for PNR ZX1AB2?"
+
+  - intent: cancel_booking
+    examples:
+      - "Cancel my booking ZX1AB2"
+      - "I want to cancel booking with PNR ZX1AB2 for Sharma"
+      - "How much will I get refunded if I cancel ZX1AB2?"
+      - "Cancel PNR ZX1AB2 for me"
+      - "I want to cancel my flight booking ZX1AB2"
+      - "Please cancel my ticket with PNR ZX1AB2"
+      - "Cancel my reservation ZX1AB2"
+      - "I need to cancel booking ZX1AB2"
+      - "Refund request for PNR ZX1AB2 cancellation"
+      - "Cancel my flight ZX1AB2"
+      - "How do I cancel booking ZX1AB2?"
+      - "Please cancel PNR ZX1AB2 for Sharma"
+      - "I want to cancel my flight with PNR ZX1AB2"
+      - "Cancel my tickets for ZX1AB2"
+      - "Process cancellation for PNR ZX1AB2"
