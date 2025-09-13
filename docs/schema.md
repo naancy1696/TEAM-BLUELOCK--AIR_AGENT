@@ -1,0 +1,15 @@
+intent_label: "book_flight"
+origin_iata: "blr"
+destination_iata: "del"
+trip_type: "one_way"
+depart_date: "2025-10-12"
+pax_adults: 2
+pax_children: 1
+cabin_class: "economy"
+selected_flight_id: "fl_001"
+total_fare: 12450
+fare_family: "saver"
+pnr: "ZX1AB2"
+status: "confirmed"
+cancellation_fee: 500
+refund_amount: 11950
