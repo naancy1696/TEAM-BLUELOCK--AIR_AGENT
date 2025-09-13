@@ -1,0 +1,7 @@
+[
+  {"iata":"blr","city":"Bengaluru","name":"Kempegowda International Airport","timezone":"Asia/Kolkata"},
+  {"iata":"del","city":"Delhi","name":"Indira Gandhi International Airport","timezone":"Asia/Kolkata"},
+  {"iata":"bom","city":"Mumbai","name":"Chhatrapati Shivaji Maharaj International Airport","timezone":"Asia/Kolkata"},
+  {"iata":"hyd","city":"Hyderabad","name":"Rajiv Gandhi International Airport","timezone":"Asia/Kolkata"},
+  {"iata":"che","city":"Chennai","name":"Chennai International Airport","timezone":"Asia/Kolkata"}
+]
