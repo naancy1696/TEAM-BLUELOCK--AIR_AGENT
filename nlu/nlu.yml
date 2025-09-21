@@ -1,0 +1,17 @@
+version: "3.0"
+nlu:
+- intent: book
+  examples: |
+    - I want to book a flight from BLR to DEL
+    - Can you help me book a ticket from Mumbai to Chennai?
+    - Book me a flight from Pune to Bangalore
+- intent: status
+  examples: |
+    - Check my booking status
+    - What’s the status of my flight?
+    - Show my booking details
+- intent: cancel
+  examples: |
+    - Cancel my flight
+    - I want to cancel my ticket
+    - Please cancel my booking for PNR 6GHTY2
