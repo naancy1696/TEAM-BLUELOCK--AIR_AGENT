@@ -1,0 +1,29 @@
+
+import json
+
+# Load intents
+with open("nlu/intents.json") as f:
+    intents = json.load(f)
+
+def detect_intent(sentence):
+    sentence = sentence.lower()
+    for intent, examples in intents.items():
+        for ex in examples:
+            # If any keyword from example exists in sentence, detect intent
+            keywords = ex.lower().split()
+            if any(word in sentence for word in keywords):
+                return intent
+    return "unknown"
+
+# Test sentences
+test_sentences = [
+    "I want to book a flight from BLR to DEL",
+    "Check my booking status",
+    "Cancel my flight",
+    "I need a ticket from Chennai to Delhi"
+]
+
+for s in test_sentences:
+    intent = detect_intent(s)
+    print(f"User: {s}")
+    print(f"Detected Intent: {intent}\n")
