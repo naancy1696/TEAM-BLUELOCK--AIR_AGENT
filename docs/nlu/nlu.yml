@@ -1,0 +1,103 @@
+I want to book a flight from BLR to DEL.
+
+Can you help me book a ticket from Mumbai to Chennai?
+
+I need a one-way flight from HYD to GOI.
+
+Book a round-trip ticket from Kolkata to Bangalore.
+
+I want to fly from Delhi to Pune next Monday.
+
+Reserve a flight from Chennai to Jaipur.
+
+I want to book two tickets from BLR to DEL.
+
+Can I book a flight from Mumbai to Hyderabad for tomorrow?
+
+I need a flight from Kochi to Delhi on 25th September.
+
+Book me a flight from Pune to Bangalore.
+
+I want a ticket from Delhi to Mumbai for 2 passengers.
+
+Help me reserve a round-trip flight from Chennai to Kolkata.
+
+I need to fly from Hyderabad to Goa this weekend.
+
+Book a ticket for 3 adults from Bangalore to Delhi.
+
+Can you get me a flight from Mumbai to Jaipur?
+
+I want to fly from Kolkata to Chennai next Friday.
+
+Reserve a flight from BLR to GOI for me.
+
+Book a one-way ticket from Delhi to Bangalore.
+
+I need to travel from Chennai to Mumbai by air.
+
+Please book a flight from Hyderabad to Pune for two adults.
+
+Intent: status (15 examples)
+
+Check my booking status.
+
+What’s the status of my flight?
+
+Can you tell me if my ticket is confirmed?
+
+Show my booking details.
+
+I want to know my flight status.
+
+Please check the status of my PNR 6GHTY2.
+
+Is my ticket confirmed?
+
+Check the details for my booking.
+
+I need to see the status of my flight from BLR to DEL.
+
+What’s my reservation status?
+
+Show me my ticket information.
+
+Can you tell me if my flight is still booked?
+
+I want to track my booking.
+
+Check if my reservation is active.
+
+Give me the current status of my ticket.
+
+Intent: cancel (15 examples)
+
+Cancel my flight.
+
+I want to cancel my ticket.
+
+Please cancel my booking for PNR 8HJTR3.
+
+I need to cancel my flight from Mumbai to Chennai.
+
+Can you cancel my reservation?
+
+Cancel the booking for two passengers.
+
+I want to cancel my round-trip ticket.
+
+Please cancel my ticket from Delhi to Pune.
+
+I need to cancel my flight for tomorrow.
+
+Cancel my reservation immediately.
+
+Help me cancel my booking.
+
+I want to cancel my ticket and get a refund.
+
+Cancel my flight from BLR to DEL.
+
+Please remove my reservation.
+
+I need to cancel my upcoming flight.
